@@ -1,0 +1,69 @@
+* {
+margin: 0;
+padding: 0;
+outline: 0px dotted red;
+}
+
+body {
+  font-size: 11px;
+  font-family: Georgia,Helvetica;
+}
+
+
+ul,li,ul li {
+ padding:0;
+ margin: 0;
+ list-style-type: none;
+}
+
+div.main_menu {
+  font-size: 1.2em;
+  overflow: auto;
+  outline: 0px solid #000;
+}
+
+div.main_menu a {
+ display: block;
+ text-decoration: none; 
+ color: #000;
+ font-weight: bold;
+}
+
+div.main_menu li {
+  float: left;
+  margin-right: 20px;
+  padding: 4px;
+}
+
+
+
+.page_wrapper {
+  width:800px;
+  margin: 0 auto 0 auto;
+  
+}
+
+
+.submenu_wrapper {
+  clear: both;
+  background-color: #dedede;
+  overflow: auto;
+  
+}
+
+.submenu {
+  clear: both;
+  display: none;
+}
+
+.submenu_wrapper .current {
+  display: block;
+}
+
+a.current {
+  border-bottom: 2px solid red;
+}
+
+.main_menu >ul a:hover {
+   color: blue;
+}
