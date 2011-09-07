@@ -5,62 +5,13 @@
 	<key>EmbeddedEditorHidden:smaura</key>
 	<false/>
 	<key>ExpandedEditorWidth:smaura:displays([(0, 0), (1680, 1050)]:[(1680, -77), (1920, 1200)])</key>
-	<integer>981</integer>
+	<integer>866</integer>
 	<key>ExpandedItems:smaura</key>
 	<array/>
 	<key>FileFilterID:smaura</key>
 	<string>msng</string>
 	<key>OpenDocuments:smaura</key>
-	<array>
-		<dict>
-			<key>AliasData</key>
-			<data>
-			AAAAAAGcAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADJ
-			lPVOSCsAAADkrzgKaW5kZXguaHRtbAAAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOSx
-			WMqLtCxURVhUUipjaP////8AAAkgAAAAAAAAAAAAAAAAAAAAB3N1
-			Ym1lbnUAABAACAAAyZU7ngAAABEACAAAyovsbAAAAAEAFADkrzgA
-			5KubAAwluQAMHBgAAAJRAAIARk1hY2ludG9zaCBIRDpBcHBsaWNh
-			dGlvbnM6TUFNUDpodGRvY3M6ZHluYW1pY19tZW51czpzdWJtZW51
-			OmluZGV4Lmh0bWwADgAWAAoAaQBuAGQAZQB4AC4AaAB0AG0AbAAP
-			ABoADABNAGEAYwBpAG4AdABvAHMAaAAgAEgARAASADlBcHBsaWNh
-			dGlvbnMvTUFNUC9odGRvY3MvZHluYW1pY19tZW51cy9zdWJtZW51
-			L2luZGV4Lmh0bWwAABMAAS8A//8AAA==
-			</data>
-			<key>FileURL</key>
-			<string>file://localhost/Applications/MAMP/htdocs/dynamic_menus/submenu/index.html</string>
-			<key>RelativePath</key>
-			<string>./submenu/index.html</string>
-			<key>TypeID</key>
-			<string>_CFileLocator</string>
-			<key>Version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>AliasData</key>
-			<data>
-			AAAAAAGYAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADJ
-			lPVOSCsAAADkrzgJc3R5bGUuY3NzAAAAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOS0
-			08qLtY5URVhUUipjaP////8AAAkgAAAAAAAAAAAAAAAAAAAAB3N1
-			Ym1lbnUAABAACAAAyZU7ngAAABEACAAAyovtzgAAAAEAFADkrzgA
-			5KubAAwluQAMHBgAAAJRAAIARU1hY2ludG9zaCBIRDpBcHBsaWNh
-			dGlvbnM6TUFNUDpodGRvY3M6ZHluYW1pY19tZW51czpzdWJtZW51
-			OnN0eWxlLmNzcwAADgAUAAkAcwB0AHkAbABlAC4AYwBzAHMADwAa
-			AAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA4QXBwbGljYXRp
-			b25zL01BTVAvaHRkb2NzL2R5bmFtaWNfbWVudXMvc3VibWVudS9z
-			dHlsZS5jc3MAEwABLwD//wAA
-			</data>
-			<key>FileURL</key>
-			<string>file://localhost/Applications/MAMP/htdocs/dynamic_menus/submenu/style.css</string>
-			<key>RelativePath</key>
-			<string>./submenu/style.css</string>
-			<key>TypeID</key>
-			<string>_CFileLocator</string>
-			<key>Version</key>
-			<integer>1</integer>
-		</dict>
-	</array>
+	<array/>
 	<key>OpenDocumentsExpanded</key>
 	<true/>
 	<key>OpenDocumentsVisible</key>
@@ -71,27 +22,27 @@
 	<array>
 		<dict>
 			<key>Date</key>
-			<date>2011-09-06T15:33:47Z</date>
+			<date>2011-09-07T19:18:52Z</date>
 			<key>Location</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGYAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJlPVOSCsAAADkrzgJc3R5bGUuY3NzAAAAAAAA
+				AAAAAAGQAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJlPVOSCsAAADkrzgKaW5kZXguaHRtbAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAOS008qLtY5URVhUUipjaP//
+				AAAAAAAAAAAAAAAAAAAAAOSxWMqLtCxURVhUUipjaP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB3N1Ym1lbnUAABAA
-				CAAAyZU7ngAAABEACAAAyovtzgAAAAEAFADkrzgA5Kub
-				AAwluQAMHBgAAAJRAAIARU1hY2ludG9zaCBIRDpBcHBs
-				aWNhdGlvbnM6TUFNUDpodGRvY3M6ZHluYW1pY19tZW51
-				czpzdWJtZW51OnN0eWxlLmNzcwAADgAUAAkAcwB0AHkA
-				bABlAC4AYwBzAHMADwAaAAwATQBhAGMAaQBuAHQAbwBz
-				AGgAIABIAEQAEgA4QXBwbGljYXRpb25zL01BTVAvaHRk
-				b2NzL2R5bmFtaWNfbWVudXMvc3VibWVudS9zdHlsZS5j
-				c3MAEwABLwD//wAA
+				CAAAyZU7ngAAABEACAAAyovsbAAAAAEAFADkrzgA5Kub
+				AAwluQAMHBgAAAJRAAIAQE1hY2ludG9zaCBIRDpBcHBs
+				aWNhdGlvbnM6TUFNUDpodGRvY3M6QXUtbWVudTpzdWJt
+				ZW51OmluZGV4Lmh0bWwADgAWAAoAaQBuAGQAZQB4AC4A
+				aAB0AG0AbAAPABoADABNAGEAYwBpAG4AdABvAHMAaAAg
+				AEgARAASADNBcHBsaWNhdGlvbnMvTUFNUC9odGRvY3Mv
+				QXUtbWVudS9zdWJtZW51L2luZGV4Lmh0bWwAABMAAS8A
+				//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Applications/MAMP/htdocs/dynamic_menus/submenu/style.css</string>
+				<string>file://localhost/Applications/MAMP/htdocs/Au-menu/submenu/index.html</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
@@ -100,27 +51,26 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2011-09-06T15:28:01Z</date>
+			<date>2011-09-07T19:18:52Z</date>
 			<key>Location</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGcAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADJlPVOSCsAAADkrzgKaW5kZXguaHRtbAAAAAAA
+				AAAAAAGMAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADJlPVOSCsAAADkrzgJc3R5bGUuY3NzAAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAOSxWMqLtCxURVhUUipjaP//
+				AAAAAAAAAAAAAAAAAAAAAOS008qLtY5URVhUUipjaP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB3N1Ym1lbnUAABAA
-				CAAAyZU7ngAAABEACAAAyovsbAAAAAEAFADkrzgA5Kub
-				AAwluQAMHBgAAAJRAAIARk1hY2ludG9zaCBIRDpBcHBs
-				aWNhdGlvbnM6TUFNUDpodGRvY3M6ZHluYW1pY19tZW51
-				czpzdWJtZW51OmluZGV4Lmh0bWwADgAWAAoAaQBuAGQA
-				ZQB4AC4AaAB0AG0AbAAPABoADABNAGEAYwBpAG4AdABv
-				AHMAaAAgAEgARAASADlBcHBsaWNhdGlvbnMvTUFNUC9o
-				dGRvY3MvZHluYW1pY19tZW51cy9zdWJtZW51L2luZGV4
-				Lmh0bWwAABMAAS8A//8AAA==
+				CAAAyZU7ngAAABEACAAAyovtzgAAAAEAFADkrzgA5Kub
+				AAwluQAMHBgAAAJRAAIAP01hY2ludG9zaCBIRDpBcHBs
+				aWNhdGlvbnM6TUFNUDpodGRvY3M6QXUtbWVudTpzdWJt
+				ZW51OnN0eWxlLmNzcwAADgAUAAkAcwB0AHkAbABlAC4A
+				YwBzAHMADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABI
+				AEQAEgAyQXBwbGljYXRpb25zL01BTVAvaHRkb2NzL0F1
+				LW1lbnUvc3VibWVudS9zdHlsZS5jc3MAEwABLwD//wAA
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Applications/MAMP/htdocs/dynamic_menus/submenu/index.html</string>
+				<string>file://localhost/Applications/MAMP/htdocs/Au-menu/submenu/style.css</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
@@ -145,8 +95,8 @@
 	<key>ToolbarVisible:smaura</key>
 	<true/>
 	<key>ViewSplitterPosition:smaura</key>
-	<real>0.20631067454814911</real>
+	<real>0.29935276508331299</real>
 	<key>WindowFrame:smaura:displays([(0, 0), (1680, 1050)]:[(1680, -77), (1920, 1200)])</key>
-	<string>rect(2,2089,838,3325)</string>
+	<string>rect(36,2003,872,3239)</string>
 </dict>
 </plist>
